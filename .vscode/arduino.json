@@ -1,0 +1,8 @@
+{
+    "sketch": "sketch.ino",
+    "output": "build",
+    "board": "arduino:avr:pro",
+    "port": "/dev/ttyUSB0",
+    "configuration": "cpu=16MHzatmega328",
+    "programmer": "arduino:arduinoisp"
+}
